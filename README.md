@@ -12,3 +12,5 @@ Eclipse, Maven, Tomcate, MySQL, JPA, EJB, WilddFly .
 ![4](https://user-images.githubusercontent.com/101187429/205775895-0c5214be-64ef-411a-8e65-af8b5f8fec99.jpg)
 ![5](https://user-images.githubusercontent.com/101187429/205775899-3ff1adda-c630-4457-8c2c-c8e8a56fdeb5.jpg)
 ![6](https://user-images.githubusercontent.com/101187429/205775873-df049fdf-efba-4df4-b9ff-53dc1ba0188a.jpg)
+## Le Regroupement de deux projets dans un seul projet de type Entreprise Application Project :
+![1](https://user-images.githubusercontent.com/101187429/205777330-4f54f33c-b25e-4284-8114-35d48c9eddfd.jpg)
